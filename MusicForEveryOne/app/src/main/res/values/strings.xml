@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MusicForEveryOne</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="repeatOn">Repeat is ON</string>
+    <string name="repeatOf">Repeat is OFF</string>
+    <string name="shuffleOF">Shuffle is OFF</string>
+    <string name="shuffleON">Shuffle is ON</string>
+    <string name="songAdd">The song added to playlist</string>
+    <string name="allMusic">All Music</string>
+    <string name="cleanPlaylist">Clean Playlist</string>
+    <string name="cleanToast">Playlist has been cleared</string>
+    <string name="save">Save playlist</string>
+    <string name="playlistNameHint">Playlist name</string>
+    <string name="cancel">Cancel</string>
+    <string name="saveToast">Playlist has beed saved</string>
+    <string name="deleteToast">Playlist has beed deleted</string>
+    <string name="load">Load playlist</string>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicForEveryOne</string>
+
+    <string name="action_settings">Optionen</string>
+    <string name="repeatOn">Wiederholen Sie Auf</string>
+    <string name="repeatOf">Wiederholen Sie Auf</string>
+    <string name="shuffleOF">Zufälligkeit Off</string>
+    <string name="shuffleON">Randomness Aktiviert</string>
+    <string name="songAdd">Der Song wurde auf der Playlist hinzugefügt worden</string>
+    <string name="allMusic">Alle Musik</string>
+    <string name="cleanPlaylist">Klar Playlist</string>
+    <string name="cleanToast">Playlist wurde gelöscht</string>
+    <string name="save">Playlist speichern</string>
+    <string name="playlistNameHint">Name Playlist</string>
+    <string name="cancel">Stornieren</string>
+    <string name="saveToast">Playlist gespeichert</string>
+    <string name="deleteToast">Playlist entfernt</string>
+    <string name="load">Playlist laden</string>
+
+</resources>

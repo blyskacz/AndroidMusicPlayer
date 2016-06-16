@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="143dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="#2b2b2b"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:weightSum="1">
+        <!-- Previous Button -->
+
+
+        <ImageButton
+            android:id="@+id/playWidget"
+            android:src="@drawable/btn_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="MusicForEveryOne"
+            android:id="@+id/textView" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/imageView"
+            android:src="@drawable/appicon" />
+
+    </LinearLayout>
+
+</LinearLayout>
